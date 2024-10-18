@@ -9,8 +9,10 @@
 
     <center>
         <h1>HVLMN</h1>
-        Test
     </center>
     
+    <?php
+    echo "Hello World";
+    ?>
 </body>
 </html>
